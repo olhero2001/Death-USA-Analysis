@@ -5,5 +5,5 @@ How mortality varies across racial and ethnic groups.
 The relationship between marital status, age group, and gender in mortality trends.
 The findings aim to provide actionable insights for public health policies and support data-driven decision-making.
 
-For this project I use the following database:
+
 
